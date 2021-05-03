@@ -1,0 +1,17 @@
+body{
+
+    background-image:linear-gradient(blue 0%,pink 100%);
+    background-position: center;
+
+
+}
+
+h2{
+    color: white;
+}
+
+a{
+    font-size: 30px;
+    width: 400px;
+    
+}
